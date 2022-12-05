@@ -3,7 +3,7 @@
 Hive Helsinki Rush project.
 
 Wordle assistant written in C
-Authors: Qnguyen & Conguyen
+Authors: qnguyen & conguyen
 
 Requires ncurses.
 ```console
