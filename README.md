@@ -1,6 +1,6 @@
-# wordle_assistant
+# Wordle Assistant
 
-Hive Rush project.
+Hive Helsinki Rush project.
 
 Wordle assistant written in C
 Authors: Qnguyen & Conguyen
