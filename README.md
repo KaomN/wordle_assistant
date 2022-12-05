@@ -9,3 +9,4 @@ Requires ncurses.
 ```console
 sudo apt-get -y install libncurses-dev
 ```
+![Screenshot](images/wordle-assistant1.png)
